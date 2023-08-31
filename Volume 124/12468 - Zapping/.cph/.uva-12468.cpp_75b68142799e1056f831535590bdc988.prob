@@ -1,0 +1,1 @@
+{"name":"Local: uva-12468","url":"/Users/lixiaoqing/workspace/cpp/UVA/12468/uva-12468.cpp","tests":[{"id":1693463253809,"input":"3 9\n0 99\n12 27\n-1 -1","output":"6\n1\n15"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/lixiaoqing/workspace/cpp/UVA/12468/uva-12468.cpp","group":"local","local":true}
